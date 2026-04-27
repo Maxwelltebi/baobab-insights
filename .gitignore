@@ -1,0 +1,5 @@
+# Internal/private docs
+Baobab_Insights_Technical_Project_Documentation.docx
+
+# Claude Code local-only settings (per-user permissions)
+.claude/settings.local.json
